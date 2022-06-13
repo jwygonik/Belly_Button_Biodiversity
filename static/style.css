@@ -1,0 +1,13 @@
+body {
+
+    color: darkblue
+  }
+
+
+
+
+.jumbotron {
+    background-image: url("https://www.bulletproof.com/wp-content/uploads/2018/10/Your-gut-bacteria-are-making-you-old_Its-all-in-the-right-mix--752x401.jpg");
+    background-size: 100% 100%;
+    text-align: left;
+  }
